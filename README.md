@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **lucianfiocello/lucianfiocello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/lucianfiocello/lucianfiocello">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianfiocello&hide=coffeescript,css" />
+</a>
+<a href="https://github.com/lucianfiocello/lucianfiocello">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianfiocello&show_icons=true&line_height=27&count_private=true" alt="Lucian Rezende GitHub Stats" />
+</a>
